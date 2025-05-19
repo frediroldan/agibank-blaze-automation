@@ -143,6 +143,7 @@ k6-reporter results/result.json report/report.html
 ```
 
 Isso gerará um relatório HTML no diretório `report/` com as métricas detalhadas.
+Observação: report via k6 é totalmente customizável para ser apresentado pelo grafana.
 
 ### 📂 Diretórios e Arquivos Gerados
 
