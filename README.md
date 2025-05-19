@@ -92,10 +92,10 @@ A razão para o tempo de resposta ter excedido **2 segundos** no **90º percenti
    - O teste indicou que o sistema não foi escalável o suficiente para **manter um tempo de resposta rápido** quando o número de usuários virtuais aumentou, indicando um possível problema de **escalabilidade da aplicação**.
 ---
 **Teste de Pico:**
-<img src="images/pico.png">
+<img src="./images/pico.png">
 
 **Teste de Carga:**
-<img src="images/carga.png">
+<img src="./images/carga.png">
 ---
 ## ⚡ Como Melhorar o Desempenho
 
